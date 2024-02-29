@@ -1,9 +1,9 @@
 
-# This project explores the art of prompt engineering with AI models.
+# This project explores Natural Language Processing.
 
 ## Author : @AhmadWildan24
 
-### Mentee assigment from IBM Advance AI @Infinite Learning Course Completion of The Art of Prompt Engineering from CognitiveClass.ai
+### Mentee assigment from IBM Advance AI @Infinite Learning Course Completion of Natural Language Processing from CognitiveClass.ai
 
 ### Mentee Ingfo
 Name    : Ahmad Wildan Afifi Nasution
